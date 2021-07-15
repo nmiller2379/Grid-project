@@ -23,7 +23,7 @@ ul {
   height: 3em;
   padding: 0;
 }
-ul li {
+li {
   padding-right: 2em;
   font-weight: bold;
 }
@@ -36,13 +36,6 @@ ul li {
   align-items: center;
   margin-top: 5em;
 }
-/* #search {
-  background-color: white;
-  border-radius: 500px;
-  width: 15em;
-  height: 2.5em;
-  padding: auto;
-} */
 #search-field {
   background-color: white;
   border-radius: 500px;
